@@ -79,15 +79,25 @@ Sample Outputs
 
 Below are some output images generated from the project:
 
-ROC Curve: ![image](https://github.com/user-attachments/assets/2fcf4ad0-f660-4127-b818-161c5f5e4484)
+ROC Curve: 
+ 
+  ![image](https://github.com/user-attachments/assets/2fcf4ad0-f660-4127-b818-161c5f5e4484)
 
-Confusion Matrix: ![image](https://github.com/user-attachments/assets/44dd0fb1-0cda-46e3-8945-43a2a4ad27fe)
+Confusion Matrix: 
 
-Simulation waveforms: ![image](https://github.com/user-attachments/assets/ee507de8-61f5-4574-a21d-6e66d80e7a12)
+  ![image](https://github.com/user-attachments/assets/44dd0fb1-0cda-46e3-8945-43a2a4ad27fe)
 
-Power Utilization:![image](https://github.com/user-attachments/assets/14141201-05b2-406f-bb75-a32f236af650)
+Simulation waveforms: 
+  
+  ![image](https://github.com/user-attachments/assets/ee507de8-61f5-4574-a21d-6e66d80e7a12)
 
-Area Utilization: ![image](https://github.com/user-attachments/assets/9babf3b0-3819-4d2c-97e2-27e29b25d8b7)
+Power Utilization:
+
+  ![image](https://github.com/user-attachments/assets/14141201-05b2-406f-bb75-a32f236af650)
+
+Area Utilization: 
+
+  ![image](https://github.com/user-attachments/assets/9babf3b0-3819-4d2c-97e2-27e29b25d8b7)
 
 
 
